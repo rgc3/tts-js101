@@ -1,0 +1,12 @@
+  .myBackgroundColor {
+    background-color: #D0D6B3;
+  }
+  body {
+    background-color: #EFEFEF;
+  }
+  h1 {
+    color: #143109;
+  }
+  li[completed="true"] {
+    text-decoration: line-through;
+  }
