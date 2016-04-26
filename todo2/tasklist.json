@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "Eat Panera with Zack",
+      "completed": false
+    },
+    {
+      "title": "Eat Chipotle with Jackie",
+      "completed": false
+    },
+    {
+      "title": "Get out of Dodge!",
+      "completed": false
+    },
+    {
+      "title": "Get jiggy with it",
+      "completed": false
+    },
+    {
+      "title": "Surf Jaws",
+      "completed": false
+    }
+  ]
+}
