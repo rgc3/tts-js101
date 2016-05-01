@@ -1,0 +1,9 @@
+.myBackgroundColor {
+  background-color: #444;
+}
+li[completed="true"] {
+  text-decoration: line-through;
+}
+.ui-body-a {
+  display: none;
+}
